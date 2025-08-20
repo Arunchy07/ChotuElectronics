@@ -1,7 +1,7 @@
 
 ## 📌 Project Overview
 
-The **Chillfix -AC Repair Service Website** is a responsive and user-friendly website developed for a real-time AC repair business. It allows users to explore services, book repair requests, and contact the service provider easily. The site is optimized for both mobile and desktop devices.
+The **Electronics Service Website** is a responsive and user-friendly website developed for a real-time Electronics repair business. It allows users to explore services, book repair requests, and contact the service provider easily. The site is optimized for both mobile and desktop devices.
 
 ## 🛠 Tech Stack
 
